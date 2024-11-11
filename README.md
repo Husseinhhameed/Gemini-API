@@ -42,10 +42,9 @@ Contributions are welcome! If you have improvements or additional examples, plea
 
 ## License
 
-This repository is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
-
+This repository is licensed under the Apache 2.0 License. 
 ## Contact
 
-For questions or further information, please contact [Hussein Hasan Hameed](hossein.h.hameed@gmail.com).
+For questions or further information, please contact hossein.h.hameed@gmail.com
 
 I hope you find these resources valuable in your journey with the Gemini API!
