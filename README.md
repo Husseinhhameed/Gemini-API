@@ -1,5 +1,5 @@
 
-![Alt text]([relative/path/to/image.png](https://github.com/Husseinhhameed/Gemini-API/blob/main/header.png))
+![Gemini API Header](https://raw.githubusercontent.com/Husseinhhameed/Gemini-API/main/header.png)
 
 # Gemini API Resources
 
